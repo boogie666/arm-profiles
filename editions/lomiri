@@ -41,8 +41,6 @@ telepathy-mission-control
 telepathy-ofono
 qt5-wayland
 maliit-framework
-#maliit-keyboard-git
-lomiri-keyboard-git
 
 # Packages to be built
 #qrca
@@ -81,7 +79,6 @@ lomiri-indicator-location-git
 lomiri-indicator-bluetooth-git
 
 # GPS
-location-service-git
 gpsd
 
 # Other
@@ -136,7 +133,6 @@ unity-notifications
 telephony-service
 unity8-git
 lomiri-sounds
-inputcontext-gtk
 
 # Lomiri Apps
 dialer-app-git
